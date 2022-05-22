@@ -15,7 +15,7 @@ Drones have been considered as an alternative means of package delivery to reduc
 If using this code for research purposes, please cite:
 
 
-[1] B. Khamidehi, M. Raeis, and E. S. Sousa. "[Dynamic Resource Management for Providing QoS in Drone Delivery Systems](arXiv preprint arXiv:2103.04015)." arXiv preprint arXiv:2103.04015, 2021.
+[1] B. Khamidehi, M. Raeis, and E. S. Sousa. "[Dynamic Resource Management for Providing QoS in Drone Delivery Systems](https://arxiv.org/abs/2103.04015)." arXiv preprint arXiv:2103.04015, 2021.
 
 ```
 @article{khamidehi2021dynamic,
