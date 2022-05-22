@@ -1,4 +1,4 @@
-# RL_Fleet_Management
+# Fleet Management via Reinforcement Learning
 
 This is a sample implementation of the following paper:
 
